@@ -12,6 +12,7 @@ let sidebar = [
 	{
 		text: "Rust 编程指南",
 		children: [
+			"简明教程.md",
 			"入门.md",
 			"常见概念.md",
 			"所有权.md",
