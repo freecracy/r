@@ -6,6 +6,27 @@ let navbar = [
 		text: "联系我",
 		link: "http://wpa.qq.com/msgrd?v=3&uin=295984047&site=qq&menu=yes",
 	},
+	{
+		text: "其它",
+		children: [
+			{
+				text: "The Rust Performance Book",
+				link: "https://nnethercote.github.io/perf-book/",
+			},
+			{
+				text: "RUST性能手册",
+				link: "https://blues-star.github.io/perf-book-zh/",
+			},
+			{
+				text: "deps",
+				link: "https://deps.dev",
+			},
+			{
+				text: "框架",
+				link: "https://github.com/seanmonstar/warp",
+			},
+		],
+	},
 ];
 
 let sidebar = [
