@@ -1,0 +1,4 @@
+import{d as s}from"./app.61528af8.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const e={},n=s(`<h1 id="crates" tabindex="-1"><a class="header-anchor" href="#crates" aria-hidden="true">#</a> crates</h1><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>https://github.com/seanmonstar/warp <span class="token comment"># web \u6846\u67B6</span>
+https://github.com/clap-rs/clap <span class="token comment"># \u547D\u4EE4\u884C\u53C2\u6570</span>
+https://github.com/tokio-rs/axum <span class="token comment"># web \u6846\u67B6,\u5C5E\u4E8E totio \u751F\u6001</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div>`,2);function t(r,c){return n}var p=a(e,[["render",t]]);export{p as default};

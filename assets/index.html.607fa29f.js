@@ -1,0 +1,1 @@
+import{o as e,c as t,a as o,b as s}from"./app.61528af8.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const a={},c={id:"hello-rust",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#hello-rust","aria-hidden":"true"},"#",-1),n=s(" hello Rust"),d=[_,n];function h(i,l){return e(),t("h1",c,d)}var u=r(a,[["render",h]]);export{u as default};
