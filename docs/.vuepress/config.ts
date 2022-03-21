@@ -3,6 +3,10 @@ import type { DefaultThemeOptions } from "vuepress";
 
 let navbar = [
 	{
+		text: "速查表",
+		link: "https://cheats.rs",
+	},
+	{
 		text: "联系我",
 		link: "http://wpa.qq.com/msgrd?v=3&uin=295984047&site=qq&menu=yes",
 	},
@@ -16,6 +20,10 @@ let navbar = [
 			{
 				text: "RUST性能手册",
 				link: "https://blues-star.github.io/perf-book-zh/",
+			},
+			{
+				text: "使用 rust 进行系统编程",
+				link: "https://github.com/bexxmodd/cr4sh_",
 			},
 			{
 				text: "deps",
@@ -41,6 +49,8 @@ let sidebar = [
 			"枚举和模式匹配.md",
 			"集合.md",
 			"模块系统.md",
+			"智能指针.md",
+			"crates.md",
 		],
 	},
 ];
